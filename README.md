@@ -15,7 +15,7 @@ that will be added to the repository 'cse310_projects'.
 
 ## Youtube Link
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/D27rUCOkuRY)
 
 <p>&nbsp;</p>
 
@@ -36,6 +36,4 @@ I used Python3 for this small assignment.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [W3 Schools](https://www.w3schools.com/)
