@@ -24,6 +24,7 @@ that will be added to the repository 'cse310_projects'.
 <p>&nbsp;</p>
 
 ## Tools Used
+
 The text editor I used is Visual Studio Code, as well as GitHub. I downloaded Git and connected the repo  
 to my VS Code. This way I can write content while ensuring it works and is visually easier to work with.  
 
