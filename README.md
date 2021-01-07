@@ -15,7 +15,7 @@ that will be added to the repository 'cse310_projects'.
 
 ## Youtube Link
 
-![Software Demo Video](https://youtu.be/D27rUCOkuRY)
+[Software Demo Video](https://youtu.be/D27rUCOkuRY)
 
 <p>&nbsp;</p>
 
